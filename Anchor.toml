@@ -6,10 +6,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-covenant = "6Y9iv9qrspPgV7ZSiD2WCNTa2beuxr8FHCfnFfNyfpU8"
+covenant = "DsuUvdDe5S6Rnzg9NrBJRAZcrP83FvyGycyi2oVbzcec"
 
 [programs.devnet]
-covenant = "6Y9iv9qrspPgV7ZSiD2WCNTa2beuxr8FHCfnFfNyfpU8"
+covenant = "DsuUvdDe5S6Rnzg9NrBJRAZcrP83FvyGycyi2oVbzcec"
 
 [registry]
 url = "https://api.apr.dev"

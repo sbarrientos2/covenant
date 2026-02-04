@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::system_program;
 
-declare_id!("6Y9iv9qrspPgV7ZSiD2WCNTa2beuxr8FHCfnFfNyfpU8");
+declare_id!("DsuUvdDe5S6Rnzg9NrBJRAZcrP83FvyGycyi2oVbzcec");
 
 /// Covenant Protocol: Economic guarantees for AI agent services
 ///
